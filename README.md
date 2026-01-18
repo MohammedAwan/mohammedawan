@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Mohammed Awan, a Computer Science student with a strong interest in Machine Learning, Data Science, and Software Development.<br> I enjoy building projects that solve real-world problems and continuously improving my technical skills through hands-on learning.
+👋 Hi, I’m Mohammed Awan, a Computer Science student with a strong interest in Machine Learning, Data Science, and Software Development. I enjoy building projects that solve real-world problems and continuously improving my technical skills through hands-on learning.
 
 
 ## 🌐 Socials:
